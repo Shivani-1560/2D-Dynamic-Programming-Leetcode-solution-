@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0005-longest-palindromic-substring) |
+| [1143-longest-common-subsequence](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0518-coin-change-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
