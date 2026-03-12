@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0518-coin-change-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0120-triangle) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0518-coin-change-ii) |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0322-coin-change) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shivani-1560/2D-Dynamic-Programming-Leetcode-solution-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
